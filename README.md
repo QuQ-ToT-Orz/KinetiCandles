@@ -1,6 +1,6 @@
 # KinetiCandles
 
-<img src="/Users/xin/Library/Application Support/typora-user-images/image-20251216140001710.png" alt="image-20251216140001710" style="zoom:25%;" /><img src="/Users/xin/Library/Application Support/typora-user-images/image-20251216140124627.png" alt="image-20251216140124627" style="zoom:25%;" /><img src="/Users/xin/Library/Application Support/typora-user-images/image-20251216140322264.png" alt="image-20251216140322264" style="zoom:20%;" /><img src="/Users/xin/Library/Application Support/typora-user-images/image-20251216140346494.png" alt="image-20251216140346494" style="zoom:20%;" /><img src="/Users/xin/Library/Application Support/typora-user-images/image-20251216140538386.png" alt="image-20251216140538386" style="zoom:20%;" />
+<img src="/Users/xin/Documents/GitHub/project4-Kplot/png/image-20251216140001710.png" alt="image-20251216140001710" style="zoom:25%;" /><img src="/Users/xin/Documents/GitHub/project4-Kplot/png/image-20251216140124627.png" alt="image-20251216140124627" style="zoom:25%;" /><img src="/Users/xin/Documents/GitHub/project4-Kplot/png/image-20251216140322264.png" alt="image-20251216140322264" style="zoom:20%;" /><img src="/Users/xin/Documents/GitHub/project4-Kplot/png/image-20251216140346494.png" alt="image-20251216140346494" style="zoom:20%;" /><img src="/Users/xin/Documents/GitHub/project4-Kplot/png/image-20251216140538386.png" alt="image-20251216140538386" style="zoom:20%;" />
 
 ### Decoding Patterns From Financial Visualization to Physical Wellbeing
 
@@ -8,7 +8,7 @@
 >
 > The idea was Inspired by K-plots (candlestick charts) used in financial trading.
 
-<img src="/Users/xin/Library/Application Support/typora-user-images/image-20251216135832336.png" alt="image-20251216135832336"  />
+<img src="/Users/xin/Documents/GitHub/project4-Kplot/png/image-20251216135832336.png" alt="image-20251216135832336"  />
 
 ### Value Proposition
 
