@@ -1,5 +1,5 @@
 # KinetiCandles
-
+蹭一波人生K线(life k-line)，哈哈哈.
 <img src="./png/image-20251216140001710.png" alt="image-20251216140001710" style="zoom:25%;" /><img src="./png/image-20251216140124627.png" alt="image-20251216140124627" style="zoom:25%;" /><img src="./png/image-20251216140322264.png" alt="image-20251216140322264" style="zoom:20%;" /><img src="./png/image-20251216140346494.png" alt="image-20251216140346494" style="zoom:20%;" /><img src="./png/image-20251216140538386.png" alt="image-20251216140538386" style="zoom:20%;" />
 
 ### Decoding Patterns From Financial Visualization to Physical Wellbeing
